@@ -29,7 +29,9 @@ Lorsque possible, ce dépôt :
 
 ➡ **Les instructions techniques et opérationnelles se trouvent avec le code de chaque application.**
 
+
 Les contributeurs **doivent consulter le fichier `UPSTREAM-AMONT`**, qui contient des orientations ainsi que **l’énoncé recommandé à ajouter aux fichiers de licence en amont**, lorsque cela est permis par le projet en amont.
+
 ---
 
 ## Applications / Applications
@@ -39,17 +41,16 @@ Les contributeurs **doivent consulter le fichier `UPSTREAM-AMONT`**, qui contien
 
 ---
 
-## See individual files for information on:
 
-- 📖 ./README.md – Repository overview  
-- 🧾 ./CITATION.cff – How to cite this work  
-- 🤝 ./CONTRIBUTING.md – Contribution guidelines  
-- 🧑‍🤝‍🧑 ./CODE_OF_CONDUCT.md – Community standards  
-- 👥 ./CREDITS.md – Contributors and acknowledgements  
-- 📚 ./REFERENCES.md – Related projects and resources  
-- ⚖️ ./LICENSE – Licensing information
+## See individual files for information on / Consultez les fichiers individuels pour obtenir de l’information sur :
+
+- 📖 ./README.md – Repository overview / Aperçu du dépôt  
+- 🧾 ./CITATION.cff – How to cite this work / Comment citer ce travail  
+- 🤝 ./CONTRIBUTING.md – Contribution guidelines / Lignes directrices pour contribuer  
+- 🧑‍🤝‍🧑 ./CODE_OF_CONDUCT.md – Community standards / Normes de conduite communautaires  
+- 👥 ./CREDITS.md – Contributors and acknowledgements / Contributeurs et remerciements  
+- 📚 ./REFERENCES.md – Related projects and resources / Projets et ressources connexes  
+- ⚖️ ./LICENSE – Licensing information / Information sur la licence
+
 
 ---
-
-*This repository supports reproducible, secure, and open deployments for scientific applications.*
-``
