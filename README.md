@@ -5,7 +5,7 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
 This repository supports the deployment of **science‑related applications** on **OKD, OpenShift, and Kubernetes**.
 
