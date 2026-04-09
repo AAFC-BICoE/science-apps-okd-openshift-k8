@@ -15,6 +15,8 @@ Where possible, this repository:
 
 ➡ **Technical and operational instructions are provided within each individual application’s code or subdirectory.**
 
+Contributors **must review the file `UPSTREAM-AMONT`**, which includes guidance and the **recommended statement to be added to upstream licence files**, where permitted by the upstream projec
+
 ---
 
 ## 🇫🇷 Français
@@ -27,6 +29,7 @@ Lorsque possible, ce dépôt :
 
 ➡ **Les instructions techniques et opérationnelles se trouvent avec le code de chaque application.**
 
+Les contributeurs **doivent consulter le fichier `UPSTREAM-AMONT`**, qui contient des orientations ainsi que **l’énoncé recommandé à ajouter aux fichiers de licence en amont**, lorsque cela est permis par le projet en amont.
 ---
 
 ## Applications / Applications
