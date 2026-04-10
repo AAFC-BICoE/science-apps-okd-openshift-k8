@@ -25,12 +25,10 @@ Cette conservation n’a pas pour effet de restreindre ou de modifier les droits
 ## Avis suggéré à ajouter aux fichiers LICENSE en amont (lorsque possible)
 
 > ### English
-> Portions of this software were authored by the government of Canada, these components in the form contributed by the GC are © His Majesty the King in Right of Canada, as represented by the Department of [Department Name].  
->  
-> These contributions are licensed under the terms of this repository’s licence.
+> Portions of this code were authored by the government of Canada, these components in the form contributed by the GC are © His Majesty the King in Right of Canada, as represented by the Department of Agriculture and Agrifoods Canada.  This attribution does not modify or replace the applicable licence, does not affect permissions, conditions, or disclaimers, and does not constitute an endorsement by the Government of Canada of the software, the repository, or any deployed application.
+
 
 > ###  Français
-> Certaines portions de ce logiciel ont été rédigées par le gouvernement du Canada, ces composantes dans la forme contribuée par le GC sont © Sa Majesté le Roi du chef du Canada, représenté par le ministère de [Nom du ministère].  
->  
-> Ces contributions sont diffusées selon les modalités de la licence de ce dépôt.
+> Certaines portions de ce code ont été rédigées par le gouvernement du Canada, ces composantes dans la forme contribuée par le GC sont © Sa Majesté le Roi du chef du Canada, représenté par le ministère d'Agriculture et agroalimentaire Canada. Cette mention ne modifie ni ne remplace la licence applicable, n’affecte pas les autorisations, conditions ou limitations de responsabilité, et ne constitue pas une approbation du logiciel, du dépôt ou des applications déployées par le gouvernement du Canada.
+
 ``
