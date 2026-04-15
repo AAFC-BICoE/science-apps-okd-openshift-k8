@@ -15,7 +15,7 @@ Where possible, this repository:
 
 ➡ **Technical and operational instructions are provided within each individual application’s code or subdirectory.**
 
-Contributors **must review the file `UPSTREAM-AMONT`**, which includes guidance and the **recommended statement to be added to upstream licence files**, where permitted by the upstream projec
+Contributors **must review the file `UPSTREAM-AMONT`**, which includes guidance and the **recommended statement to be added to upstream licence files**, where permitted by the upstream project
 
 ---
 
