@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: {{ include "plot-reel.fullname" . }}-config
+  labels:
+    {{- include "plot-reel.labels" . | nindent 4 }}
+data:
+  DATA_ROOT: {{ .Values.config.DATA_ROOT | quote }}
+  SAVE_ROOT: {{ .Values.config.SAVE_ROOT | quote }}
+  URL_PREFIX: {{ .Values.config.URL_PREFIX | quote }}
+  HOST: {{ .Values.config.HOST | quote }}
+  PORT: {{ .Values.config.PORT | quote }}
