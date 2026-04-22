@@ -36,13 +36,10 @@ Les contributeurs **doivent consulter le fichier `UPSTREAM-AMONT`**, qui contien
 
 ## Applications / Applications
 
-- **Plot Reel**  
-  Interactive scientific plotting and visualization web application.  
-  - **Upstream project:**  
-    [Plot Reel – application source repository](https://gitlab.science.gc.ca/hpc-aafc/aafc-k8-on-hpc/-/blob/protractor/deployments/plot-reel-dev)  
+- **Plot Reel:** Interactive scientific plotting and visualization web application.  
+  - **Upstream project:** [Plot Reel – application source repository](https://gitlab.science.gc.ca/hpc-aafc/aafc-k8-on-hpc/-/blob/protractor/deployments/plot-reel-dev)  
   - **Deployment:** Helm‑based OpenShift / Kubernetes deployment  
-  - **Deployment instructions:**  
-    [`plot-reel`](./plot-reel)
+  - **Deployment instructions:** [`plot-reel`](./plot-reel)
 
 ---
 
