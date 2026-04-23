@@ -1,5 +1,5 @@
 # =============================================================================
-# CITATION.cff TEMPLATE — AAFC Bioinformatics Code Catalogue (ABCC)
+# CITATION.cff TEMPLATE — AAFC Science Application Deployment Support for OKD,OpenShift, and Kubernetes 
 # =============================================================================
 # This file provides citation metadata for your software or dataset.
 # When present in the repository root, GitHub and Zenodo will automatically
@@ -31,7 +31,7 @@ message: >-
 # The formal name of your software or dataset.
 # ---------------------------------------------------------------------------
 title: >-
-  ABCC Template Repository: A Reproducible Data Processing Pipeline Template
+  AAFC Science Application Deployment Support for OKD, Openshif, and Kubernets
 
 # ---------------------------------------------------------------------------
 # TYPE (optional but highly recommended)
@@ -52,7 +52,7 @@ version: "1.0.0"
 # DATE RELEASED (optional but recommended)
 # Use ISO 8601 format: YYYY-MM-DD
 # ---------------------------------------------------------------------------
-date-released: "2025-09-11"
+date-released: "2026-04-23"
 
 # ---------------------------------------------------------------------------
 # LICENSE (optional but strongly recommended)
@@ -65,7 +65,7 @@ license: MIT
 # URL pointing to your code repository.
 # For non-code resources, use 'repository-artifact:' or 'url:' instead.
 # ---------------------------------------------------------------------------
-repository-code: "https://github.com/AAFC-Bioinfo-AAC/template-repository"
+repository-code: "https://github.com/AAFC-BICoE/science-apps-okd-openshift-k8"
 
 # ---------------------------------------------------------------------------
 # ABSTRACT (optional but recommended)
@@ -73,23 +73,26 @@ repository-code: "https://github.com/AAFC-Bioinfo-AAC/template-repository"
 # Newlines are converted to spaces, forming a flowing paragraph.
 # ---------------------------------------------------------------------------
 abstract: >-
-  The AAFC Bioinformatics Code Catalogue (ABCC) template repository provides a
-  modular and extensible framework for developing reproducible data analysis
-  pipelines within the AAFC-Bioinfo-AAC GitHub organization. It enables
-  researchers and developers to quickly initialize new projects using
-  parameterized, reusable components adaptable to diverse analytical workflows.
+  This repository supports the deployment of science-related applications 
+  on OKD, OpenShift, and Kubernetes platforms. It serves as a central hub 
+  for OKD/OpenShift deployment code, providing links to upstream 
+  contributions and hosting deployment logic during migrations or when 
+  upstream integration is restricted. The repository facilitates 
+  reproducible cloud-native science application environments within 
+  container orchestration frameworks.
 
 # ---------------------------------------------------------------------------
 # KEYWORDS (optional)
 # Use keywords that help others discover your repository.
 # ---------------------------------------------------------------------------
 keywords:
-  - reproducibility
-  - bioinformatics
-  - template
-  - pipeline
-  - Snakemake
+  - OKD
+  - OpenShift
+  - Kubernetes
+  - Depolyment
+  - Science-applications
   - AAFC
+  - AAFC-BICoE
 
 # ---------------------------------------------------------------------------
 # IDENTIFIERS (optional)
@@ -109,7 +112,7 @@ keywords:
 # ---------------------------------------------------------------------------
 authors:
   # Example 1: Team author (for collaborative repos)
-  - name: "AAFC Bioinformatics Code Catalogue (ABCC) project team"
+  - name: "AAFC Labs Canada project team"
     affiliation: "Agriculture and Agri-Food Canada (AAFC)"
 
   # Example 2: Individual authors (optional if team is listed)
@@ -133,11 +136,11 @@ authors:
 # ---------------------------------------------------------------------------
 # preferred-citation:
 #   type: article
-#   title: "ABCC Template Repository: A reproducible pipeline framework for AAFC bioinformatics"
+#   title: "AAFC Science Application Deployment Support for OKD,OpenShift, and Kubernetes"
 #   authors:
 #     - given-names: "First"
 #       family-names: "Last"
-#   year: 2025
+#   year: 2026
 #   journal: "Zenodo"
 #   doi: "00.0000/zenodo.xxxxxxx"
 
